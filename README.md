@@ -26,7 +26,8 @@ This is useful for:
 
 ## 📸 How it looks
 
-> You can add screenshots here in the GitHub repo later!
+>https://github.com/Sianap8/google-trends-btc-clean/blob/main/btc-vs-altcoin-trends-tradingview.png
+ https://github.com/Sianap8/google-trends-btc-clean/blob/main/btc-trends-with-ema.png
 
 ---
 
