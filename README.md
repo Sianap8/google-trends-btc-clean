@@ -21,6 +21,7 @@ This is useful for:
 - Studying **retail investor interest** over time
 - Correlating **price pumps/dumps** with search demand
 - Exploring **bull/bear market sentiment**
+- We can implement the 9 period Exponential Moving Average (9 EMA). When google trends are above the 9 EMA, it indicates a bullish sentiment (Second picture)
 
 ---
 
